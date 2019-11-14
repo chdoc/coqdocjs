@@ -64,6 +64,11 @@ div:empty{ display: none;}
 #main .doc {
     margin: 0;
     text-align: justify;
+    background-color: #009fff21;
+}
+
+#main .section {
+    padding: 5px 2px;
 }
 
 .inlinecode, .code, #main pre {
